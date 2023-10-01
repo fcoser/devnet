@@ -1,0 +1,15 @@
+ansible
+black
+flake8
+genie
+ipython
+napalm
+ncclient
+netmiko
+pyang
+pyats
+PyYAML
+requests
+urllib3
+virlutils
+xmltodict
