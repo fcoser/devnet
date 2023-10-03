@@ -13,3 +13,4 @@ requests
 urllib3
 virlutils
 xmltodict
+gladius
